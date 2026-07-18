@@ -1,6 +1,6 @@
 # 두 수를 더하는 간단한 프로그램
-num1 = 5
-num2 = 3
+num1 = 7
+num2 = 31
 
 # 덧셈 계산
 result = num1 + num2
